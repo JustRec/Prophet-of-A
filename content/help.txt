@@ -1,0 +1,10 @@
+&lidertahtası --> Kutsal a zincirine ne kadar katkı yapıldığını gör
+
+&kınama --> Yargılayıcı mesajları yok et/kucakla
+
+&ayarla_genel <id> --> Bot mesajlarının gönderileceği yeri ayarla
+
+&body --> ( っ- ‸ – c)
+
+
+
